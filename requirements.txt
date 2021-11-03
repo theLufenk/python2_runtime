@@ -1,4 +1,8 @@
 numpy
+cython
+setuptools
+bcolz
 matplotlib
 pandas
 pyfolio
+zipline
