@@ -4,4 +4,4 @@ bcolz
 matplotlib
 pandas
 pyfolio
-pip install
+zipline-reloaded
