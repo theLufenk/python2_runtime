@@ -4,4 +4,3 @@ bcolz
 matplotlib
 pandas
 pyfolio
-zipline-reloaded
