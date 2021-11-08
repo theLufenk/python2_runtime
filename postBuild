@@ -1,2 +1,3 @@
 #!/bin/bash
+pip install git+https://github.com/quantopian/pyfolio
 conda install -c ml4t -c conda-forge -c ranaroussi zipline-reloaded
